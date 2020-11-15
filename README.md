@@ -59,10 +59,11 @@ The obective of the game is to sort *l_a*
 <!-- GETTING STARTED -->
 ## Getting Started
 Test the program with your list of number as parameter
-
+```shh
+./push_swap 1 12 3 -4 [...]
 ```
 <!--USEFULL LINKS-->
-## 
+##
 [![LinkedIn][linkedin-shield]][linkedin-url] [![GitHub][github-shield]][github-url]
 
 <!-- MARKDOWN LINKS, ALIAS & IMAGES -->
